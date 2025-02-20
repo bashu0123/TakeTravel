@@ -40,7 +40,7 @@ cd backend
 npm install
 npm start
 ```
-The backend server will start on `http://localhost:port`
+The backend server will start on `http://localhost:8000`
 
 ### Frontend Setup
 ```sh
